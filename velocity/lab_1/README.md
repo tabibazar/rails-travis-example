@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/secure-pipeline/rails-travis-example.svg?branch=master)](https://travis-ci.org/secure-pipeline/rails-travis-example)
+
 # Lab 1
 This is Lab 1 for Velocity 2014 Tutorial: Battle-tested Code without the Battle.
 
